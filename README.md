@@ -21,7 +21,7 @@ We construct our OIA data set (in standard v 1.1) as described in our ACL 2022 p
 
 ### Format 
 
-See [OIA Data Format](doc/data-format.md) for details. 
+See [OIA Data Format](doc/data_format.md) for details. 
 
 ### License/Copyright
 
