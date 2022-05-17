@@ -2,11 +2,13 @@
 
 # Open Information eXpression 
 
-introduction to open information extraction 
+Open Information eXpression (OIX) is proposed as a methodology to highly adaptable Open Information Extraction systems [\[1\]](#reference). Instead of **Extraction**, it focuses on **eXpression**, that is, expressing all the information in the language into an intermediate structure so that one can extract various types of information for different applications from the intermediate structure. Open Information Annotation (OIA) is our implementation of the OIX methodology.  
 
 ## Open Information Annotation
 
-Open Information Annotation (OIA) is an implementation of Open Information eXpression (OIX). It is a language annotation on sentences. 
+Open Information Annotation (OIA)[\[2\]](#reference) is an implementation of Open Information eXpression (OIX). It expresses a sentence into a Predicate/Function-Arguments structure. 
+
+### Standards
 
 The OIA standard has evolved in two versions: 
 
@@ -29,11 +31,11 @@ The annotations and database rights of the OIA Dataset are licensed under a Crea
 
 You should have received a copy of the license along with this work. If not, see http://creativecommons.org/licenses/by-sa/4.0/.
 
-The underlying texts come from where the sentences are from [English-EWT (version 2.4)](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2988) of the Uinversal Dependency Dataset
+The underlying texts come from where the sentences are from [English-EWT (version 2.4)](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2988) of the Universal Dependency Dataset
 
 ## Citation
 
-If you want to use this data set, please kindly cite the following paper. The bibtex are listed below:
+Please cite the following papers if you want to use this data set. The bibtex are listed below:
 <pre>
 @inproceedings{sun2020predicate,
   title={A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information eXpression},
