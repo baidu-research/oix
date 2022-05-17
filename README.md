@@ -31,11 +31,11 @@ The annotations and database rights of the OIA Dataset are licensed under a Crea
 
 You should have received a copy of the license along with this work. If not, see http://creativecommons.org/licenses/by-sa/4.0/.
 
-The underlying texts come from where the sentences are from [English-EWT (version 2.4)](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2988) of the Universal Dependency Dataset
+The underlying texts come from where the sentences are from [English-EWT (version 2.4)](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2988) of the Universal Dependency Dataset.
 
 ## Citation
 
-Please cite the following papers if you want to use this data set. The bibtex are listed below:
+Please cite the following papers if you want to use this data set:
 <pre>
 @inproceedings{sun2020predicate,
   title={A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information eXpression},
