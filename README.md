@@ -14,9 +14,10 @@ The OIA standard has evolved in two versions:
 * v 1.1: described in our ACL 2022 paper [\[2\]](#reference), which extend the set of node types.  
 
 
+
 ## Data 
 
-We construct our OIA data set (in standard v 1.1) as described in our ACL 2022 paper [2], where the sentences are from [English-EWT (version 2.4)](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2988) of the Uinversal Dependency Dataset. It can be found in the [data](data) folder. 
+We construct our OIA data set (in standard v 1.1) as described in our ACL 2022 paper [2]. It can be found in the [data](data) folder. 
 
 ### Data Format
 
@@ -39,6 +40,13 @@ We construct our OIA data set (in standard v 1.1) as described in our ACL 2022 p
             - end node index of the edge
             - the label of the edge
 
+## License/Copyright
+
+The annotations and database rights of the OIA Dataset are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+You should have received a copy of the license along with this work. If not, see http://creativecommons.org/licenses/by-sa/4.0/.
+
+The underlying texts come from where the sentences are from [English-EWT (version 2.4)](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2988) of the Uinversal Dependency Dataset
 
 ## Citation
 
